@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+
+.headers {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background: #1f2937;
+    color: #E5E7Eb;
+    font-size: 18px;
+    
+
+}
+
+.headers ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
